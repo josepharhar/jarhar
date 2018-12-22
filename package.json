@@ -1,0 +1,18 @@
+{
+  "name": "jarhar",
+  "version": "1.0.0",
+  "description": "nodejs utility library",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/josepharhar/jarhar.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/josepharhar/jarhar/issues"
+  },
+  "homepage": "https://github.com/josepharhar/jarhar#readme"
+}
